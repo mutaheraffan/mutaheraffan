@@ -12,5 +12,5 @@ Hi, I am **Mutaher Affan**, a *Software Design Engineer* who is used to work  un
 ```
 📫 
    Gmail :- mutaheraffan@gmail.com
-LinkedIn :- https://pk.linkedin.com/in/mutaher-affan-96268b144
+LinkedIn :- https://pk.linkedin.com/in/mutaher-affan
 ```
